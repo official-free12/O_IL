@@ -1,0 +1,6 @@
+# 【OTC承兑商USDT收分系统】原生开发，安全稳定，功能丰富
+
+【OTC承兑商USDT收分系统】原生开发，安全稳定，功能丰富<br>原生APP,性能稳定，安全效果好，安卓APP下载案例：<br>http://example.com/jinshouzhi/13632978801 123456aa<br>前端主要功能：<br>1：注册，登录，找回密码，安全验证等功能；<br>2：交易行情，K线功能<br>3：c2c交易功能<br>5：我的资产功能（、提币、划转）；<br>6：订单管理功能（C2C订单、交易订单）；<br>7：个人中心实名认证；<br>8：安全中心（手机号绑定）<br>9：收款方式；<br>10：我的推广码<br>11：系统公告；<br>12：解释说明；<br>后台主要功能：<br>example.com（BI数据分析、币种统计、用户统计、交易统计、异常用户）；<br>example.com（用户密码修改、实名认证管理、银行信息管理）<br>example.com（用户钱包管理、资金调节、钱包日志、转入转出记录、c2c交易记录）；<br>example.com（推荐奖励、用户活动）；<br>example.com（商家管理、订单管理、收款信息、日志管理、划转记录）；<br>example.com（图片、新闻、app信息、邮件设置、总账户设置）<br>8.（平台数据管理、管理员权限、日志明细、数据库备份、系统参数设置）；<br>10：C2C交易管理（交易订单管理、买入信息、卖出信息）。<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/rGdPG" style="color: red;">https://mega-file.org/rGdPG</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
